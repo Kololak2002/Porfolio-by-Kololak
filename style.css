@@ -92,8 +92,7 @@ body{
 }
 .flip{
  position:relative;
-
- transform:scale(2.5) rotateY(180deg);
+ transform:scale(1.5) rotateY(180deg);
  z-index: 10;
 /*display: flex;
      align-items: center;
